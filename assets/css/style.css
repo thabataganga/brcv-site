@@ -503,9 +503,6 @@ section {
   position: relative;
 }
 
-
-
-
 /*--------------------------------------------------------------
 # What We Do
 --------------------------------------------------------------*/
@@ -520,18 +517,17 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #3498db;
+  background: #eaf4fb;
   border-radius: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 20px;
   transition: ease-in-out 0.3s;
-  position: relative;
 }
 
 .what-we-do .icon-box .icon i {
-  color: white;
+  color: #3498db;
   font-size: 28px;
 }
 
@@ -542,7 +538,7 @@ section {
 }
 
 .what-we-do .icon-box h4 a {
-  color: #3498db;
+  color: #384046;
   transition: ease-in-out 0.3s;
 }
 
@@ -555,11 +551,68 @@ section {
 .what-we-do .icon-box:hover {
   border-color: #fff;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+}
+
+.what-we-do .icon-box:hover h4 a, .what-we-do .icon-box:hover .icon i {
+  color: #3498db;
+}
+
+
+
+/*--------------------------------------------------------------
+# Voluntários
+--------------------------------------------------------------*/
+.voluntarios .icon-box {
+  text-align: center;
+  padding: 30px 20px;
+  transition: all ease-in-out 0.3s;
+  background: #fff;
+}
+
+.voluntarios .icon-box .icon {
+  margin: 0 auto;
+  width: 64px;
+  height: 64px;
+  background: #3498db;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  transition: ease-in-out 0.3s;
+  position: relative;
+}
+
+.voluntarios .icon-box .icon i {
+  color: white;
+  font-size: 28px;
+}
+
+.voluntarios .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.voluntarios .icon-box h4 a {
+  color: #3498db;
+  transition: ease-in-out 0.3s;
+}
+
+.voluntarios .icon-box p {
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.voluntarios .icon-box:hover {
+  border-color: #fff;
+  box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   
 }
 
 
-.what-we-do .hospital:hover {
+.voluntarios .hospital:hover {
   border-color: #fff;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   background: url("../img/voluntarios/hospital.jpeg") center center;
@@ -567,7 +620,7 @@ section {
   position: relative;
 }
 
-.what-we-do .hospital:hover:before {
+.voluntarios .hospital:hover:before {
   content: "";
   background: rgba(56, 64, 70, 0.7);
   position: absolute;
@@ -577,7 +630,7 @@ section {
   right: 0;
 }
 
-.what-we-do .industria:hover {
+.voluntarios .industria:hover {
   border-color: #fff;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   background: url("../img/voluntarios/industria.jpeg") center center;
@@ -585,7 +638,7 @@ section {
   position: relative;
 }
 
-.what-we-do .industria:hover:before {
+.voluntarios .industria:hover:before {
   content: "";
   background: rgba(56, 64, 70, 0.7);
   position: absolute;
@@ -595,7 +648,7 @@ section {
   right: 0;
 }
 
-.what-we-do .maker:hover {
+.voluntarios .maker:hover {
   border-color: #fff;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   background: url("../img/voluntarios/maker.jpg") center center;
@@ -603,7 +656,7 @@ section {
   position: relative;
 }
 
-.what-we-do .maker:hover:before {
+.voluntarios .maker:hover:before {
   content: "";
   background: rgba(56, 64, 70, 0.7);
   position: absolute;
@@ -613,17 +666,17 @@ section {
   right: 0;
 }
 
-.what-we-do .icon-box:hover h4 a {
+.voluntarios .icon-box:hover h4 a {
   color: white;
   position: relative;
 }
 
-.what-we-do .icon-box:hover .icon i {
+.voluntarios .icon-box:hover .icon i {
   color: white;
   position: relative;
 }
 
-.what-we-do .icon-box:hover p{
+.voluntarios .icon-box:hover p{
   color: white;
   position: relative;
 }
