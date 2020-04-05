@@ -9,5 +9,5 @@ License: https://bootstrapmade.com/license/
 // Modelo utilizando bootstrap
 ---> Falta 
 .. adicionar os logos dos apoiadores
-.. criar as paginas dos projetos (mockup no arquivo portfolio-details.html)
+.. arrumar o layout da pagina faceshield.html e criar uma pagina para os outros projetos
 .. montar um blog de noticias
