@@ -8,6 +8,7 @@ License: https://bootstrapmade.com/license/
 
 // Modelo utilizando bootstrap
 ---> Falta 
-.. adicionar os logos dos apoiadores
-.. arrumar o layout da pagina faceshield.html e criar uma pagina para os outros projetos
+.. criar um formulário para submissão de projetos e linkar o botão
+.. criar a pagina com todos os membros da equipe 
+.. revisar a liderança
 .. montar um blog de noticias
