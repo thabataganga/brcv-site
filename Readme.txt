@@ -12,5 +12,6 @@ License: https://bootstrapmade.com/license/
 .. criar a pagina com todos os membros da equipe 
 .. rever depoimentos / falta foto de duas pessoas
 .. revisar a liderança
+.. limpar os arquivos não utilizados
 .. subir o site
 .. montar um blog de noticias
