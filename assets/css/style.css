@@ -703,11 +703,11 @@ section {
 }
 
 .about h3{
-  color: white;
+  color: #3498db;
 }
 
 .about h4{
-  color: white;
+  color: #3498db;
 }
 
 .about li{
@@ -761,7 +761,7 @@ section {
 
 .about .icon-boxes i {
   font-size: 48px;
-  color: #3498db;
+  color: white;
 }
 
 .about .icon-boxes p {
