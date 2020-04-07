@@ -983,9 +983,10 @@ section {
   color: #3498db;
 }
 .apoio .logom{
-  width: 40px;
+  width: 100px;
   position: relative;
-  top: 40px;
+  top: 10px;
+  height: relative;
 }
 
 /*--------------------------------------------------------------
