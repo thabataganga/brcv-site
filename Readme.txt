@@ -10,6 +10,7 @@ License: https://bootstrapmade.com/license/
 ---> Falta 
 .. criar um formulário para submissão de projetos e linkar o botão
 .. criar a pagina com todos os membros da equipe 
+.. rever depoimentos / falta foto de duas pessoas
 .. revisar a liderança
 .. subir o site
 .. montar um blog de noticias
