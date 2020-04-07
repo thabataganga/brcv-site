@@ -994,6 +994,21 @@ section {
 --------------------------------------------------------------*/
 .portfolio {
   padding: 60px 0;
+  text-align: center;
+}
+
+.portfolio .btn-get-started {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 12px 28px;
+  border-radius: 4px;
+  transition: ease-in-out 0.3s;
+  color: #fff;
+  background: green;
+  text-transform: uppercase;
 }
 
 .portfolio #portfolio-flters {
@@ -1226,6 +1241,22 @@ section {
 .team{
   background: url("../img/bg_ciclo.jpg") center center;
   background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+.team .btn-get-started {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 12px 28px;
+  border-radius: 4px;
+  transition: ease-in-out 0.3s;
+  color: #fff;
+  background: #3498db;
+  text-transform: uppercase;
   position: relative;
 }
 
@@ -1491,6 +1522,7 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
+
 .portfolio-details {
   padding-top: 0;
 }
