@@ -11,4 +11,5 @@ License: https://bootstrapmade.com/license/
 .. criar um formulário para submissão de projetos e linkar o botão
 .. criar a pagina com todos os membros da equipe 
 .. revisar a liderança
+.. subir o site
 .. montar um blog de noticias
